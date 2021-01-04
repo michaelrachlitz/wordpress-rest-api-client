@@ -1,5 +1,5 @@
 {
-  "name": "vnn/wordpress-rest-api-client",
+  "name": "vnn/wordpress-rest-api-client-fork",
   "config": {
     "platform": {
       "php": "7.0.33"
